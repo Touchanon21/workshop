@@ -8,3 +8,4 @@ y = 10
 z = x + y
 print(z)
 myfirst_name = "John"
+x = y = z = "Orange"
