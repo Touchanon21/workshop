@@ -7,4 +7,4 @@ x = 5
 y = 10
 z = x + y
 print(z)
-myfirst_name = "Johny"
+myfirst_name = "John"
