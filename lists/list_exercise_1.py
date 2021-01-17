@@ -4,7 +4,7 @@ print(fruits[1])
 
 # จงแก้ไขข้อมูลจาก "apple" เป็น "kiwi"
 fruits = ["apple", "banana", "cherry"]
-fruits[1] = "kiwi"
+fruits[0] = "kiwi"
 print(fruits)
 
 # จงเพิ่ม "kiwi" ไปยัง fruits list
